@@ -1,4 +1,4 @@
-chat
+Официальный чат русского Angularjs сообщества
 ====
 
-Angularjs russian chat
+https://gitter.im/AngularjsRUS/chat
