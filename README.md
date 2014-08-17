@@ -1,10 +1,12 @@
 Официальный чат русского Angularjs сообщества
 ====
 
-Чат - https://gitter.im/AngularjsRUS/chat
+![](https://angularjs.org/img/AngularJS-large.png)
 
-Группа в ВК -  http://vk.com/angularjs
+[Чат](gitter.im/AngularjsRUS/chat)
 
-Группа в G+ - https://plus.google.com/communities/109003572589840580141
+[Группа в ВК](http://vk.com/angularjs)
 
-Русская документация - https://github.com/maksimr/angular-doc
+[Группа в G+](https://plus.google.com/communities/109003572589840580141)
+
+[Русская документация](https://github.com/maksimr/angular-doc)
